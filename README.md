@@ -14,4 +14,4 @@ is that we have from the received signal.
 On the other hand, suppose that the data that is provided to you is a signal that has been transferred to the baseband after receiving.
 I have considered the distance between the elements of the receiving antenna to be equal to $d=λ/2$ , where $λ$ is the wavelength of the carrier signal. I have also considered the frequency of the carrier signal to be equal to $Fc=20MHz$.
 ## Output
-<img src="">
+<img src="https://github.com/hosseinhayatizak/Orientation-of-radio-sources-with-MUSIC-algorithm/blob/main/output.jpg">
